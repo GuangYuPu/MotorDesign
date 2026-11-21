@@ -18,5 +18,6 @@ desktop.ini
 .obsidian/workspace-mobile.json
 .obsidian/cache
 
-# 本机生成的 SSH known_hosts（推送用，不进仓库）
+# 本机生成的 SSH known_hosts（推送用，不进仓库；含路径被吞的变体）
 .git-ssh-known_hosts
+*ssh-known_hosts

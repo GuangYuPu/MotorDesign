@@ -1,5 +1,6 @@
 {
   "showRibbon": true,
   "theme": "obsidian",
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "baseFontSizeAction": true
 }
